@@ -1,5 +1,5 @@
 ![S0NS0KET Banner]
-(https://www.canva.com/design/DAGxAVhP_Q4/tTp5fDMgcC2kc0QV5H4c8A/edit?utm_content=DAGxAVhP_Q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+(https://github.com/S0NS0KET/S0NS0KET/blob/dbeb8c8b335ca4421c18738b1e07ca4f39ddec70/IMG_4192.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm S0NS0KET</h2>
 
