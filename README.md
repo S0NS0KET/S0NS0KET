@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I enjoy motocross and improving my language skills.\
 ✉️ &nbsp;You can email me at s0ns0ket18@gmail.com! I'll try to get back to you as soon as possible.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/ width=20>
 
 ### 🛠 &nbsp;Tech Stack
 
