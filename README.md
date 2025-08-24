@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! I'm S0NS0KET</h2>
+<h2 align="left">Hey there! I'm S0NS0KET 👋🏻</h2>
 
 ![S0NS0KET int](https://github.com/S0NS0KET/S0NS0KET/blob/main/IMG_4192.jpeg)
 
