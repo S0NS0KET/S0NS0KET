@@ -1,5 +1,5 @@
 ![S0NS0KET Banner]
-(https://github.com/S0NS0KET/S0NS0KET/blob/dbeb8c8b335ca4421c18738b1e07ca4f39ddec70/IMG_4192.jpeg)
+(https://github.com/S0NS0KET/S0NS0KET/blob/main/IMG_4192.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm S0NS0KET</h2>
 
