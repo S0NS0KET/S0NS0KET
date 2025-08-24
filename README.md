@@ -10,7 +10,7 @@
 🎓 &nbsp;I'm currently studying Systems and Communications Engineering at UAEMEX Valle de Mexico.\
 🌱 &nbsp;I'm working on learning more about Web Development (Front-End and Back-End) and Cybersecurity.\
 ✍️ &nbsp;In my free time, I enjoy motocross and improving my language skills.\
-✉️ &nbsp;You can email me at s0ns0ket18@gmail.com! I'll try to get back to you as soon as possible.\
+✉️ &nbsp;You can email me at s0ns0ket18@gmail.com! I'll try to get back to you as soon as possible.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width=500 />
 
