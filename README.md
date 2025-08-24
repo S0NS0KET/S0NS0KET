@@ -1,6 +1,6 @@
-![S0NS0KET int](https://github.com/S0NS0KET/S0NS0KET/blob/main/IMG_4192.jpeg)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='10' align="left"/><h2 align="left">Hey there! I'm S0NS0KET</h2>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm S0NS0KET</h2>
+![S0NS0KET int](https://github.com/S0NS0KET/S0NS0KET/blob/main/IMG_4192.jpeg)
 
 <!-- ## 👋 &nbsp;Hey there! I'm S0NS0KET -->
 
