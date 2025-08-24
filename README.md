@@ -1,5 +1,5 @@
 ![S0NS0KET int]
-(https://github.com/S0NS0KET/S0NS0KET/blob/025514e2c82f23a25cd501bc4ef3f26a0038fea9/IMG_4192.jpeg?raw=true)
+(https://github.com/S0NS0KET/S0NS0KET/blob/main/IMG_4192.jpeg?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm S0NS0KET</h2>
 
