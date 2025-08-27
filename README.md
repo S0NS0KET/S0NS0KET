@@ -57,5 +57,6 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S0NS0KET&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=S0NS0KET&theme=dark&hide_border=true"/>
 </p>
+
